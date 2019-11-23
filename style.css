@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+
+h1 {color: red;
+font-size:50px
+
+}
+
+
+body {
+
+  background-color: black;
+  color:white;
+  font-family: "Comic Sans MS"
+
+
+}
+
+h1 {
+
+  text-align:center;
+}
+
+body {
+  text-align: center;
+
+}
+
+a {
+text-decoration-style: wavy;
+
+
+}
